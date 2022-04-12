@@ -1,1 +1,1 @@
-# ThermalStatisticalPhysics
+# Thermal Statistical Mechanics
